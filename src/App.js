@@ -144,7 +144,7 @@ function App() {
       </div>
       <Card className="app___right">
         <CardContent>
-          <h3>Live cases by country</h3>
+          <h3>Total cases by country</h3>
           {/* Table */}
           <Table countries={tableData} />
 
