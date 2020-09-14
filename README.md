@@ -2,6 +2,8 @@
 
 <img src="./public/app.gif">
 
+[Demo](https://fabienlimzk.github.io/covid-19-tracker/)
+
 This app is builded using Reactjs with the tutorial of [Clever Programmer](https://www.youtube.com/watch?v=cF3pIMJUZxM).
 
 ##
