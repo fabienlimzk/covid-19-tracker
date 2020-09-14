@@ -1,3 +1,7 @@
+# React COVID-19 Tracker
+
+This app is builded using Reactjs with the tutorial of [Clever Programmer](https://www.youtube.com/watch?v=cF3pIMJUZxM).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
