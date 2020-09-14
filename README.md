@@ -1,6 +1,6 @@
 # React COVID-19 Tracker
 
-<img src="./public/screenshot.jpg">
+<img src="./public/app.gif">
 
 This app is builded using Reactjs with the tutorial of [Clever Programmer](https://www.youtube.com/watch?v=cF3pIMJUZxM).
 
